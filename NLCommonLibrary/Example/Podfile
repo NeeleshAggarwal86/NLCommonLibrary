@@ -1,0 +1,6 @@
+use_frameworks!
+target 'NLCommonLibrary_Tests' do
+  pod 'NLCommonLibrary', :path => '../'
+  
+  
+end

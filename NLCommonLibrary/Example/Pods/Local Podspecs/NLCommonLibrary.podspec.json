@@ -1,0 +1,22 @@
+{
+  "name": "NLCommonLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of NLCommonLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/neeleshaggarwal86/NLCommonLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "neeleshaggarwal86": "neelesh_aggarwal@yahoo.com"
+  },
+  "source": {
+    "git": "https://github.com/neeleshaggarwal86/NLCommonLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NLCommonLibrary/Classes/**/*"
+}

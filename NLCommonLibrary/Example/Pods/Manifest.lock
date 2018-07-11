@@ -1,0 +1,16 @@
+PODS:
+  - NLCommonLibrary (0.1.0)
+
+DEPENDENCIES:
+  - NLCommonLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  NLCommonLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NLCommonLibrary: 8a02416df8b9df1cd5cd4e0e2de346b68125deb2
+
+PODFILE CHECKSUM: 53b7a122087d64e523fa76aa5d4a7504a6b7b396
+
+COCOAPODS: 1.5.3

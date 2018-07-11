@@ -1,0 +1,6 @@
+framework module NLCommonLibrary {
+  umbrella header "NLCommonLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}
